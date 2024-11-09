@@ -1,3 +1,8 @@
 {
-  "episodes": []
+  "episodes": [
+    {
+      "title": "Episode 1",
+      "url": "test"
+    }
+  ]
 }
